@@ -1,12 +1,12 @@
 
 
-<h1 align="center">〝ELGAZAR_BOTV6✨〞<br></h1>
+<h1 align="center">〝HITLAR BOT V1〞<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/86f4d8e6bfb7ba044994f.jpg" alt="animated" width="500" height="300" />
 </p>
 
 <p align="center">
-مرحبا انا الجزار مطور الجزار بوت اول بوت واتساب عربي في الواتساب عربي من 2018 ارجو منكم الاشتراك بقناتي علي اليوتيوب ودعمي لاستمرار في عمل المزيد من البوتات لكم وشكرا❤✨ 
+مرحبا انا هتلر مطور هتلر بوت اول بوت واتساب عربي في الواتساب عربي من 2018 ارجو منكم الاشتراك بقناتي علي اليوتيوب ودعمي لاستمرار في عمل المزيد من البوتات لكم وشكرا❤✨ 
 .
 </p>
 
@@ -15,7 +15,7 @@
 ---
 ##قناتي علي اليوتيوب تابع الشروحات👇🏻
 
-<a href="https://youtube.com/@ABDALLAH_MOHAMED"><img src="https://i.ibb.co/hsGYWms/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="200"></a>
+<a href="[https://www.youtube.com/channel/UChq703gleoz-BWykLigP1Tw"]><img src="https://i.ibb.co/hsGYWms/116-1161192-podcast-subscribe-listen-button-youtube-sign-hd-png.png" alt="Watch tutorial on YouTube" border="0"  width="200"></a>
 
 ------
 
